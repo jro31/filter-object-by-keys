@@ -1,0 +1,22 @@
+{
+  "name": "filter-object-by-keys",
+  "version": "1.0.0",
+  "description": "Filter an object by keys",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jro31/filter-object-by-keys.git"
+  },
+  "keywords": [
+    "filter-object",
+    "filter-object-by-keys",
+    "object-filter",
+    "reduce-object"
+  ],
+  "author": "Jethro Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jro31/filter-object-by-keys/issues"
+  },
+  "homepage": "https://github.com/jro31/filter-object-by-keys#readme"
+}
